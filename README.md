@@ -39,7 +39,7 @@ The goal is to fill the grid with numbers 1 to N such that:
 *The puzzle interface showing a 9x9 grid with colored groups and operators*
 
 #### Solved Puzzle
-![Solved Puzzle](images/input.png)
+![Solved Puzzle](images/output.png)
 *A successfully solved puzzle showing the solution with all constraints satisfied*
 
 ## Project Structure
